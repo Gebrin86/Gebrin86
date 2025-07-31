@@ -17,9 +17,19 @@ I hold:
 
 ## 🧠 About Me
 
-I’m transitioning from a hands-on Building Engineer role to a career in cybersecurity. My main focus is understanding how wireless networks (especially in drones) can be monitored, analyzed, and secured.
+I’m Gebrin Alvarez — a future-focused cybersecurity professional with a strong interest in drones, cybersecurity, and artificial intelligence. I believe these three areas are converging fast and represent some of the most important frontiers in technology and national security.
 
-I'm exploring the cybersecurity field through **real-world drone traffic analysis**, using tools like Mission Planner, Wireshark, and MAVProxy — without writing code yet.
+My current background is in mechanical systems and technical operations as a Building Engineer, but my passion is evolving toward protecting digital infrastructure, understanding threats in the air and on the ground, and eventually using AI to strengthen real-time threat response and analysis.
+
+Here’s why I’m focused on each area:
+
+    Cybersecurity: Every industry is now a target — from commercial buildings to drones in the sky. I want to be part of the frontline defense, helping detect and stop threats before they cause damage. That’s why I’m currently preparing for CompTIA Security+, learning how to protect networks, devices, and sensitive data.
+
+    Drones (UAVs): As a certified FAA Part 107 drone pilot, I understand the power and risk these machines carry. Drones are being used in everything from logistics and surveillance to infrastructure inspection. But with that comes vulnerabilities — especially in their wireless communication systems. I’m learning to analyze these systems using tools like Wireshark, Mission Planner, and MAVProxy to see where they might be exposed.
+
+    Artificial Intelligence: AI is quickly becoming essential in everything from object detection to anomaly detection. My goal is to eventually use tools like OpenCV, YOLOv8, TensorFlow, and Scapy to process drone footage, detect suspicious patterns, and automate reconnaissance or alerting in a cybersecurity context. I'm not coding yet, but I’m setting out to learn Python so I can start building those tools myself.
+
+This GitHub is a place where I plan to share my learning journey, document my experiments, and demonstrate practical skills that connect these three fields. I’m not rushing to master everything at once — I’m building one skill at a time, but always with the future in mind.
 
 ---
 

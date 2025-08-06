@@ -42,25 +42,33 @@ This GitHub is a place where I plan to share my learning journey, document my ex
 - Recording and analyzing drone network traffic for potential weaknesses
 
 ---
+🎯 Learning Goals (2025)
 
-## 🎯 Learning Goals
+Even though I’m learning drones and cybersecurity separately, I believe both paths will eventually cross — and in tech, it always pays to explore a little bit of everything. I'm focused on building a strong, practical foundation in both areas.
 
-To build my skills further and gain hands-on experience, I'm setting out to learn:
+🔐 Cybersecurity Focus
+Exploring tools, techniques, and concepts used in real-world security operations:
 
-- 🧠 **OpenCV** – Computer vision for object detection and video analysis
-- 📦 **Scapy** – For packet crafting and network scanning
-- 🤖 **TensorFlow** – To understand AI-based threat detection
-- 🎯 **YOLOv8** – For real-time object detection on UAV camera feeds
-- 🐍 **Python** – To eventually automate and script analysis tools
+    🐍 Python – Automating simple scripts for analysis and reconnaissance
 
----
+    🔍 Network Traffic Analysis – Learning how to inspect and understand data flows
 
-## 🧰 Tools I Use (No Coding Required)
+    🧰 Hands-On Tools – Getting familiar with packet crafting (Scapy), log review, and basic threat detection
 
-- **Wireshark** – Network traffic monitoring
-- **Mission Planner** – UAV flight control software
-- **MAVProxy** – UAV command line interface
-- **Windows/Linux CLI** – Basic terminal commands for recon
+    🧠 Security+ Study – Building core knowledge across confidentiality, integrity, access control, and network defense
+
+🛰️ Drone Technology Focus
+Developing skills related to flight control, UAV monitoring, and real-time data:
+
+    🗺️ Mission Planner – Planning and tracking autonomous flights
+
+    📡 MAVLink – Understanding how drones communicate and receive instructions
+
+    🎯 Object Detection – Using tools like YOLOv8 to identify visuals through drone feeds
+
+    🌤️ Airspace Awareness – Factoring in weather, maps, and safe flight zones
+
+    🎥 UAV Footage Review – Observing video for use cases like inspection or situational awareness
 
 ---
 

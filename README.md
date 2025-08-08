@@ -1,10 +1,10 @@
-## 👋 Hello, I'm Gebrin Alvarez
+## Hello, I'm Gebrin Alvarez
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gebrin-alvarez/)
 
 ---
 
-🎯 **Future Cybersecurity Analyst** with a strong interest in **wireless security**, **drone reconnaissance**, and the use of AI tools for threat detection and analysis.
+**Future Cybersecurity Analyst** with a strong interest in **wireless security**, **drone reconnaissance**, and the use of AI tools for threat detection and analysis.
 
 I hold:
 
@@ -15,7 +15,7 @@ I hold:
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m Gebrin Alvarez — a future-focused cybersecurity professional with a strong interest in drones, cybersecurity, and artificial intelligence. I believe these three areas are converging fast and represent some of the most important frontiers in technology and national security.
 
@@ -33,9 +33,9 @@ This GitHub is a place where I plan to share my learning journey, document my ex
 
 ---
 
-## 🚀 Active Project (In Progress)
+## Active Project (In Progress)
 
-### 📡 Drone Communications Recon & Wireless Traffic Capture
+### Drone Communications Recon & Wireless Traffic Capture
 
 - Sniffing MAVLink protocol traffic using **Wireshark**
 - Using **MAVProxy** and **Mission Planner** to observe flight control and telemetry
@@ -46,29 +46,29 @@ This GitHub is a place where I plan to share my learning journey, document my ex
 
 Even though I’m learning drones and cybersecurity separately, I believe both paths will eventually cross — and in tech, it always pays to explore a little bit of everything. I'm focused on building a strong, practical foundation in both areas.
 
-🔐 Cybersecurity Focus
+  Cybersecurity Focus
 Exploring tools, techniques, and concepts used in real-world security operations:
 
-    🐍 Python – Automating simple scripts for analysis and reconnaissance
+    Python – Automating simple scripts for analysis and reconnaissance
 
-    🔍 Network Traffic Analysis – Learning how to inspect and understand data flows
+    Network Traffic Analysis – Learning how to inspect and understand data flows
 
-    🧰 Hands-On Tools – Getting familiar with packet crafting (Scapy), log review, and basic threat detection
+    Hands-On Tools – Getting familiar with packet crafting (Scapy), log review, and basic threat detection
 
-    🧠 Security+ Study – Building core knowledge across confidentiality, integrity, access control, and network defense
+    Security+ Study – Building core knowledge across confidentiality, integrity, access control, and network defense
 
-🛰️ Drone Technology Focus
+  Drone Technology Focus
 Developing skills related to flight control, UAV monitoring, and real-time data:
 
-    🗺️ Mission Planner – Planning and tracking autonomous flights
+    Mission Planner – Planning and tracking autonomous flights
 
-    📡 MAVLink – Understanding how drones communicate and receive instructions
+    MAVLink – Understanding how drones communicate and receive instructions
 
-    🎯 Object Detection – Using tools like YOLOv8 to identify visuals through drone feeds
+    Object Detection – Using tools like YOLOv8 to identify visuals through drone feeds
 
-    🌤️ Airspace Awareness – Factoring in weather, maps, and safe flight zones
+    Airspace Awareness – Factoring in weather, maps, and safe flight zones
 
-    🎥 UAV Footage Review – Observing video for use cases like inspection or situational awareness
+    UAV Footage Review – Observing video for use cases like inspection or situational awareness
 
 ---
 
@@ -80,4 +80,4 @@ Developing skills related to flight control, UAV monitoring, and real-time data:
 
 ---
 
-> 🔎 I'm building toward a cybersecurity career step by step — starting with tools, traffic analysis, and drones — and growing into AI, scripting, and advanced recon over time.
+> I'm building toward a cybersecurity career step by step — starting with tools, traffic analysis, and drones — and growing into AI, scripting, and advanced recon over time.

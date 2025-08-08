@@ -42,7 +42,7 @@ This GitHub is a place where I plan to share my learning journey, document my ex
 - Recording and analyzing drone network traffic for potential weaknesses
 
 ---
-🎯 Learning Goals (2025)
+ Learning Goals (2025)
 
 Even though I’m learning drones and cybersecurity separately, I believe both paths will eventually cross — and in tech, it always pays to explore a little bit of everything. I'm focused on building a strong, practical foundation in both areas.
 

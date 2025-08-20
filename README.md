@@ -16,8 +16,6 @@
 
 ## About Me  
 
-## About Me  
-
 I’m currently transitioning my career path into **cybersecurity**. For the past several years, I’ve worked as a **Building Engineer**, responsible for keeping critical systems running smoothly in high-pressure environments. That role required **system reliability, quick troubleshooting, and attention to detail** — qualities that are just as important in cybersecurity.  
 
 While I’m not a professional in the field yet, I’m actively learning and building my foundation step by step. My focus right now is on:  

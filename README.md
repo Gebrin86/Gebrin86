@@ -9,8 +9,9 @@
 **Credentials & Education:**  
 - **Associate Degree in Computer Network Technology**  
 - Currently preparing for **CompTIA Security+**  
-- **FAA Part 107 Drone Pilot License**  
-- **EPA 608 Universal Certification**  
+- FAA Part 107 Drone Pilot License (**Federal license for operating drones commercially**)  
+- EPA 608 Universal Certification (**Certification for handling and managing HVAC/refrigeration systems**)  
+
 
 ---
 

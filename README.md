@@ -56,7 +56,8 @@ Currently, I’m:
 ## Career Goal  
 
 - **Immediate Goal** → Entry-level role as a **SOC Analyst** or **Security Analyst**, mastering SIEMs, Wireshark, Splunk, and Linux.  
-- **Long-Term Goal** → Advance into **threat intelligence**, **cloud security**, or **penetration testing**, protecting critical systems at scale.  
+- **Long-Term Goal →** Advance into **Threat Hunting**, with growth into **threat intelligence**, **cloud security**, or **penetration testing**, protecting critical systems at scale.
+  
 
 ---
 

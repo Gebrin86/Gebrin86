@@ -18,7 +18,7 @@
 
 I’m a building engineer with 10+ years of hands-on experience maintaining reliable, efficient building systems in commercial environments. My day-to-day has included HVAC troubleshooting, building automation system (BAS) monitoring, vendor and contractor coordination, preventive and corrective maintenance, and supervision of cleaning crews and on-site security — all with an emphasis on keeping occupants safe and facilities operating smoothly.
 
-Lately I’ve shifted my focus toward sustainability and data-driven facility management. I’ve seen firsthand how operational changes can lower costs and reduce environmental impact, and I want to bridge my practical building knowledge with strong analytical skills to help organizations measure and improve building performance. That’s why I’m developing capabilities in Linux, SQL, Excel Power Query, and Tableau — tools that let me gather, clean, and visualize building and energy data so decisions are clear, measurable, and impactful.
+Lately I’ve shifted my focus toward sustainability and data-driven facility management. I’ve seen firsthand how operational changes can lower costs and reduce environmental impact, and I want to bridge my practical building knowledge with strong analytical skills to help organizations measure and improve building performance. That’s why I’m developing capabilities in Linux, SQL, Power BI, and Tableau — tools that let me gather, clean, and visualize building and energy data so decisions are clear, measurable, and impactful.
 
 This GitHub is my portfolio to document projects, analysis, dashboards, and workflows that demonstrate how facility operations and sustainability goals can align through data.
 
@@ -58,7 +58,7 @@ I’m keeping my focus clear and practical:
 
 🔹 **Sustainability & Data Analytics (Main Focus)**  
 - Deepening **Linux** skills for processing and automating energy data.  
-- Building reliable ETL workflows with **SQL** and **Excel Power Query**.  
+- Building reliable ETL workflows with **SQL** and **Power BI**.  
 - Designing interactive dashboards in **Tableau** to communicate energy and performance trends.  
 - Studying **LEED** concepts and energy benchmarking best practices.  
 - Preparing for **CEM** to develop energy auditing and management expertise.

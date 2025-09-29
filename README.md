@@ -37,7 +37,7 @@ Buildings are major consumers of energy and resources, and small operational imp
 - **Certified Energy Manager (CEM) (in progress)**  
 - **EPA 608 Universal Certification**  
 - **Linux** — fundamentals for data pipelines and server-side tooling (users, permissions, logs)  
-- **Data tools:** SQL, Excel Power Query (data cleaning/ETL), and Tableau (dashboards & visualization)  
+- **Data tools:** SQL, Power Bi (data cleaning/ETL), and Tableau (dashboards & visualization)  
 - **Facility systems:** HVAC systems, Building Automation Systems (BAS), CMMS (work order management)  
 - **Energy analysis:** consumption pattern analysis, benchmarking, and basic energy modeling concepts  
 - **Project coordination:** vendor/contractor management, preventive maintenance planning, supervising on-site crews  
